@@ -51,7 +51,7 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-    background-image: url("/assets/img/background1.jpeg")
+    
 }
 
 html {
@@ -59,7 +59,7 @@ html {
 }
 
 body {
-  background-image: url("background1.jpeg") ;
+
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   background-color: var(--body-color);
@@ -155,7 +155,7 @@ body.dark-theme {
 }
 
 .main {
-  background-image: url("/assets/img/background1.jpeg") ;
+ 
   overflow: hidden; /* For animation ScrollReveal */
 }
 

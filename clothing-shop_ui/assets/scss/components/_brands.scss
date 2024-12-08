@@ -1,0 +1,12 @@
+/*=============== BRANDS ===============*/
+.brand{
+    &__container{
+      
+        justify-content: center;
+        
+
+        &:nth-child(even){
+            margin-top: .2rem;
+        }
+    }
+}

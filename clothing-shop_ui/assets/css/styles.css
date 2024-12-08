@@ -108,7 +108,7 @@ body.dark-theme {
     the website, in dark theme 
 ==========*/
 .dark-theme .scroll-header {
-  box-shadow: 0 2px 8px hsla(220, 18%, 8%, .3);
+  box-shadow: 0 2px 8px hsla(0, 1%, 52%, 0.651);
 }
 
 .dark-theme .nav__menu {

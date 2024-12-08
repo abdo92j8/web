@@ -208,7 +208,7 @@ body.dark-theme {
     align-items: center;
   }
   .nav__link {
-    font-family: 'Orbitron' ,serif;
+    font-family: 'Press Start 2P' ,serif;
     color: var(--text-color-light);
     font-weight: var(--font-medium);
     display: grid;

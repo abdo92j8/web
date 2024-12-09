@@ -93,7 +93,7 @@ body.dark-theme {
   --title-color: hsl(220, 8%, 95%);
   --text-color: hsl(0, 0%, 99%);
   --body-color: hsl(0, 0%, 0%);
-  --container-color: hsl(0, 0%, 100%);
+  --container-color: hsl(0, 0%, 0%);
 }
 /*========== Button Dark/Light ==========*/
 .change-theme {
@@ -206,10 +206,10 @@ body.dark-theme {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-family: 'Press Start 2P' ,Cursive;
+    font-family: 'Orbitron' ,serif;
   }
   .nav__link {
-    font-family: 'Press Start 2P' ,Cursive;
+    font-family: 'Orbitron' ,serif;
     color: var(--text-color-light);
     font-weight: var(--font-medium);
     display: grid;
